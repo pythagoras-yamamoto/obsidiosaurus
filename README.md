@@ -14,7 +14,8 @@ _<p align="center">Obsidian + Docusaurus = Where your Obsidian notes meet the we
 
 Obsidiosaurus is a converter for [Obsidian](https://obsidian.md/) markdown notes to the static site builder [Docusaurus](https://docusaurus.io/)
 
-It allows for a better experience writing and maintaining the markdown files, since both share a lot of common features.
+It allows for better experience writing and maintaining the markdown files, since both share a lot of common features.
+
 
 🚧 CURRENTLY IN DEVELOPMENT! EXPECT BUGS
 
